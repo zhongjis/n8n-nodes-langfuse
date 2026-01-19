@@ -1,6 +1,6 @@
 {
-	"name": "@langfuse/n8n-nodes-langfuse",
-	"version": "0.2.3",
+	"name": "@zhongjis/n8n-nodes-langfuse",
+	"version": "0.2.4",
 	"description": "Langfuse nodes for n8n",
 	"keywords": [
 		"n8n-community-node-package"
@@ -11,6 +11,12 @@
 		"name": "Langfuse",
 		"email": "support@langfuse.com"
 	},
+	"contributors": [
+		{
+			"name": "Zhongjie Shen",
+			"url": "https://github.com/zhongjis"
+		}
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/langfuse/n8n-nodes-langfuse.git"
